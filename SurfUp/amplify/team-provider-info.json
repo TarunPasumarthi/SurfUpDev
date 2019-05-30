@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "surfupamplify-dev-20190528202139-authRole",
+            "UnauthRoleArn": "arn:aws:iam::392054696113:role/surfupamplify-dev-20190528202139-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::392054696113:role/surfupamplify-dev-20190528202139-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "surfupamplify-dev-20190528202139-deployment",
+            "UnauthRoleName": "surfupamplify-dev-20190528202139-unauthRole",
+            "StackName": "surfupamplify-dev-20190528202139",
+            "StackId": "arn:aws:cloudformation:us-west-2:392054696113:stack/surfupamplify-dev-20190528202139/e15dde00-81c0-11e9-bbeb-066b98e74c72"
+        },
+        "categories": {
+            "auth": {
+                "surfupamplifyeb396fdc": {}
+            }
+        }
+    }
+}
